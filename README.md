@@ -1,7 +1,7 @@
 Hi 👋 My name is Paul
 =====================
 
-Ex-Marine Officer. Actively learning JS and React
+Ex-Marine Officer. Actively learning JS and PHP
 -------------------------------------------------
 
 I have changed the vector of my professional development. The Front-end sector is perfect match for my personal and professional interests.
